@@ -1,5 +1,5 @@
 plugins {
-    id("org.sonarqube") version 3.4.0.2513
+    id("org.sonarqube") version 4.0.0.2929
     detekt
     id("com.github.ben-manes.versions") version app.web.drjackycv.buildsrc.Depends.Versions.checkDependencyVersionsVersion
     id("com.osacky.doctor") version app.web.drjackycv.buildsrc.Depends.Versions.gradleDoctorVersion
